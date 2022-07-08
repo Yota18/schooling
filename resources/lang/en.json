@@ -1,0 +1,119 @@
+{
+    "Home" : "Home",
+    "About" : "About",
+    "About-1" : "Company-profile",
+    "About-2" : "Vision & mission",
+    "About-3" : "History",
+    "About-4" : "Board of Management",
+    "About-5" : "Anual report",
+    "Projects" : "Projects",
+    "Product" : "Product",
+    "Career" : "Career",
+    "News" : "News",
+    "Search-placeholder" : "Search by product, projects and news",
+    "Search-result" : "Search result",
+    
+    
+    "Cookie" : "We use cookies to make your experience of our websites better. By using and further navigating this website you accept this. Detailed information about the use of cookies on this website is available by clicking on learn more.",
+    "Learn-more" : "Learn more",
+
+    "Social-media" : "Social media",
+    "Address" : "Address",
+    "Contact" : "Contact",
+    "Contact-tag" : "Easily and quickly consult your problems",
+    "Contact-tag2" : "Find the best solution for your problems and needs",
+    
+    
+    "Header-about" : "This is GCN",
+    "Header-hero" : "Think Global For Best",
+
+    "Project-subheading" : "Project Portofolio",
+    "Project-heading" : "Explore Our Major Capital Projects Around the World",
+    "Project-desc" : "We do amazing things with amazing people. Explore our established global portfolios to broaden your insight about us.",
+
+    "Filter-all" : "Show all",
+    "Visit-web" : "Visit website",
+    "Cancel" : "Cancel",
+    "Accept" : "Accept",
+
+    "Career-subheading" : "Career",
+    "Career-heading" : "Let’s Join Our Great Team",
+
+    "Read-more" : "Read more",
+
+    "News-subheading" : "News & event",
+    "News-heading" : "Don't Miss Our Latest Update",
+
+    "CTA" : "Easily and quickly consult your problems & needs and get the right solution now",
+    "Contact-btn" : "Contact us",
+    "All-years" : "All years",
+    "Show-more" : "Show more",
+    
+    "About-gcn" : "This is GCN",
+    "Philosophy" : "Philosophy",
+    "Mission" : "Mission",
+    "Vision" : "Vision",
+
+    "Value-1" : "We believe that customer satisfaction is our primary responsibility.",
+    "Value-2" : "We believe our partners are determinant element in achieving goals. We are, therefore, responsible to continuously providing and creating more benefits to the partners.",
+    "Value-3" : "We believe our employees are our most valuable assets. We are responsible to ensure that they feel secure in their jobs. We also commit to help them fulfill their social responsibilities.",
+    "Value-4" : "Finally, we believe achievement of organizational goals will depend on our ability to balance all stakeholders' needs and interests.",
+    
+    "Approach-1" : "We believe that our clients know better of their business than us. Therefore, we start our services by listening so we can define a mutual understanding with the clients on their problems and needs. Together with the client we will further map the problems and/or set priority for the solutions. ",
+    "Approach-2" : "Each solution will be focused on client's goals and strategy and set to be realistic. We will tell the client what we can and what we cannot. We do not speak promises! We deliver!",
+
+    "Approach-3" : "We also understand that the continuous improvement is a must process that we should do to sustain in the highly competition businesses. Changes occur in seconds. ",
+
+    "Approach-4" : "Finally, we understand that the most critical component of the solution is the implementation stage. The key is to create open and intensive communication with the client throughout the entire process.",
+
+    "Credo" : "",
+    "Credo-desc" : "We are developing global networks for sourcing and marketing, without neglecting the local wisdom in business to get the best products, services and solutions for our valuable partners. Focusing in electrical and instrumentation, mechanical and material handling, and refractory, we are confidence to give additional value for our business partners.",
+
+    "History" : "History",
+    "History-sub" : "A long journey leads to consistent development",
+    "History-desc" : "Great things are never done by just one person. Learn more about our journey, from early ground until current stage of company.",
+    
+    
+    "Anual-report" : "Annual Report",
+    "Anual-sub" : "Check out the annual report and let's achieve a brighter future",
+    "Download" : "Download",
+
+    "Management" : "Management",
+    "Management-sub" : "Executive Board PT. Global Cipta Niaga",
+    "Management-desc" : "Our team comes from technical and business backgrounds with industry experience. We believe fresh ideas will come from multiple perspectives.",
+
+    "Career-tag" : "Let's go forward together with a team of integrity",
+    "Career-desc" : "At PT Global Cipta Niaga, you will develop your career in a respectful and open environment.",
+
+    "Call-now" : "Call now",
+    "First-name" : "First name",
+    "First-name-placeholder" : "Your first name",
+    "Last-name" : "Last name",
+    "Last-name-placeholder" : "Your last name",
+    "Email" : "Email",
+    "Email-placeholder" : "Email address",
+    "Subject" : "Subject",
+    "Subject-placeholder" : "Write a subject",
+    "Message" : "Messagge",
+    
+    
+    "Category" : "CATEGORY",
+    "Related-post" : "RELATED POST",
+
+    "Your-search" : "Your search for",
+    "Return" : "return",
+    "Result" : "result",
+
+    "Product-head" : "Product & Solution",
+    "Product-sub" : "Products, Services, Solution",
+    "Product-desc" : "Our products, services, and solutions are very reliable and cost-effective to give additional values and improve performance.",
+    "Product-category" : "Product category",
+
+    "Event" : "Event",
+    "News-tag" : "Interesting articles and events for you",
+    "News-sub" : "Update news information and interesting events",
+    "News-desc" : "Don't want to left behind with our updates? Bookmark this section and we'll guarantee that you will never missed once.",
+
+    "succesSendEmail" : "Success Send Email"
+
+}

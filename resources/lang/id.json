@@ -1,0 +1,120 @@
+{
+    "Home" : "Beranda",
+    "About" : "Tentang kami",
+    "About-1" : "Profil perusahaan",
+    "About-2" : "Visi & misi",
+    "About-3" : "Sejarah",
+    "About-4" : "Susunan pengurus",
+    "About-5" : "Laporan tahunan",
+    "Projects" : "Proyek",
+    "Product" : "Produk",
+    "Career" : "Karir",
+    "News" : "Berita",
+    "Partner" : "Mitra",
+    "Search-placeholder" : "Cari berdasarkan proyek, produk dan berita",
+    "Search-result" : "Hasil pencarian",
+    
+    
+    "Cookie" : "Kami menggunakan cookie untuk membuat pengalaman Anda di situs web kami menjadi lebih baik. Dengan menggunakan dan menavigasi lebih lanjut situs web ini, Anda menerima ini. Informasi terperinci tentang penggunaan cookie di situs web ini tersedia dengan mengklik pelajari lebih lanjut.",
+    "Learn-more" : "Lebih banyak",
+
+    "Social-media" : "Sosial Media",
+    "Address" : "Alamat",
+    "Contact" : "Kontak",
+    "Contact-tag" : "Konsultasikan masalah Anda dengan mudah dan cepat",
+    "Contact-tag2" : "Temukan solusi terbaik untuk masalah dan kebutuhan Anda",
+    
+    
+    "Header-about" : "Ini adalah GCN",
+    "Header-hero" : "Think Global For Best",
+
+    "Project-subheading" : "Portofolio Proyek",
+    "Project-heading" : "Jelajahi proyek utama kami di seluruh dunia",
+    "Project-desc" : "Kami melakukan hal-hal luar biasa dengan orang-orang luar biasa. Jelajahi portofolio global kami yang sudah beridir untuk memperluas wawasan Anda tentang kami.",
+
+    "Filter-all" : "Semua",
+    "Visit-web" : "Kunjungi website",
+    "Cancel" : "Cancel",
+    "Accept" : "Accept",
+
+    "Career-subheading" : "Karir",
+    "Career-heading" : "Mari bergabung dengan tim hebat kami",
+
+    "Read-more" : "Baca selengkapnya",
+
+    "News-subheading" : "Berita & acara",
+    "News-heading" : "Jangan lewatkan update terbaru kami",
+
+    "CTA" : "Konsultasikan masalah & kebutuhan anda dengan mudah dan cepat dan dapatkan solusi yang tepat sekarang juga",
+    "Contact-btn" : "Hubungi kami",
+    "All-years" : "Semua tahun",
+    "Show-more" : "Lebih banyak",
+    
+    "About-gcn" : "Ini adalah GCN",
+    "Philosophy" : "Filosofi",
+    "Mission" : "Misi",
+    "Vision" : "Visi",
+
+    "Value-1" : "Kami percaya bahwa kepuasan pelanggan adalah tanggung jawab utama kami.",
+    "Value-2" : "Kami percaya mitra kami adalah elemen penentu dalam mencapai tujuan. Oleh karena itu, kami bertanggung jawab untuk terus memberikan dan menciptakan lebih banyak manfaat bagi para mitra.",
+    "Value-3" : "Kami percaya karyawan kami adalah aset kami yang paling berharga. Kami bertanggung jawab untuk memastikan bahwa mereka merasa aman dalam pekerjaan mereka. Kami juga berkomitmen untuk membantu mereka memenuhi tanggung jawab sosial mereka.",
+    "Value-4" : "Akhirnya, kami percaya pencapaian tujuan organisasi akan tergantung pada kemampuan kami untuk menyeimbangkan kebutuhan dan kepentingan semua pemangku kepentingan.",
+    
+    "Approach-1" : "Kami percaya bahwa klien kami tahu lebih baik tentang bisnis mereka daripada kami. Oleh karena itu, kami memulai layanan kami dengan mendengarkan sehingga kami dapat mendefinisikan saling pengertian dengan klien tentang masalah dan kebutuhan mereka. Bersama dengan klien kami akan memetakan lebih lanjut masalah dan/atau menetapkan prioritas untuk solusi.",
+    "Approach-2" : "Setiap solusi akan difokuskan pada tujuan dan strategi klien dan diatur agar realistis. Kami akan memberi tahu klien apa yang kami bisa dan apa yang tidak bisa kami lakukan. Kami tidak berbicara janji! Kami mengirimkan!",
+
+    "Approach-3" : "Kami juga memahami bahwa perbaikan terus-menerus adalah proses yang harus kami lakukan untuk bertahan dalam persaingan bisnis yang sangat tinggi. Perubahan terjadi dalam hitungan detik.",
+
+    "Approach-4" : "Akhirnya, kami memahami bahwa komponen solusi yang paling penting adalah tahap implementasi. Kuncinya adalah menciptakan komunikasi yang terbuka dan intensif dengan klien di seluruh proses.",
+
+    "Credo" : "",
+    "Credo-desc" : "Kami mengembangkan jaringan global untuk sumber dan pemasaran, tanpa mengabaikan kearifan lokal dalam bisnis untuk mendapatkan produk, layanan, dan solusi terbaik bagi mitra berharga kami. Berfokus pada kelistrikan dan instrumentasi, penanganan mekanis dan material, dan refraktori, kami yakin dapat memberikan nilai tambah bagi mitra bisnis kami.",
+
+    "History" : "Sejarah",
+    "History-sub" : "Perjalanan panjang mengarah pada perkembangan yang konsisten",
+    "History-desc" : "Hal-hal besar tidak pernah dilakukan oleh satu orang saja. Pelajari lebih lanjut tentang perjalanan kami, dari awal hingga tahap perusahaan saat ini.",
+    
+    
+    "Anual-report" : "Laporan tahunan",
+    "Anual-sub" : "Lihat laporan tahunan dan mari raih masa depan yang lebih cerah",
+    "Download" : "Unduh",
+
+    "Management" : "Manajemen",
+    "Management-sub" : "Susunan pengurus PT. Global Cipta Niaga",
+    "Management-desc" : "Tim kami berasal dari latar belakang teknis dan bisnis dengan pengalaman industri. Kami percaya ide-ide segar akan datang dari berbagai perspektif.",
+
+    "Career-tag" : "Mari maju bersama dengan tim yang berintegritas",
+    "Career-desc" : "Di PT Global Cipta Niaga, Anda akan mengembangkan karir Anda dalam suasana yang penuh hormat dan terbuka.",
+
+    "Call-now" : "Hubungi Sekarang",
+    "First-name" : "Nama depan",
+    "First-name-placeholder" : "Nama depan anda",
+    "Last-name" : "Nama belakang",
+    "Last-name-placeholder" : "Nama belakang anda",
+    "Email" : "Email",
+    "Email-placeholder" : "Email anda",
+    "Subject" : "Subjek",
+    "Subject-placeholder" : "Tuliskan subjek",
+    "Message" : "Pesan",
+    
+    
+    "Category" : "KATEGORI",
+    "Related-post" : "POSTINGAN TERKAIT",
+
+    "Your-search" : "Pencarian anda untuk",
+    "Return" : "menghasilkan",
+    "Result" : "hasil",
+
+    "Product-head" : "Produk & Solusi",
+    "Product-sub" : "Produk, Layanan, Solusi",
+    "Product-desc" : "Produk, layanan, dan solusi kami sangat andal dan hemat biaya untuk memberikan nilai tambah dan meningkatkan kinerja.",
+    "Product-category" : "Kategori produk",
+
+    "Event" : "Acara",
+    "News-tag" : "Artikel dan acara menarik untuk Anda",
+    "News-sub" : "Update informasi berita dan event menarik",
+    "News-desc" : "Tidak ingin ketinggalan dengan update dari kami? Simpan halaman ini dan kami jamin Anda tidak akan pernah melewatkannya.",
+
+    "succesSendEmail" : "Sukses Mengirim Email"
+
+}
